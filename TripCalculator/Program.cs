@@ -95,6 +95,7 @@ Console.WriteLine("How many people are going: " + peopleGoing.ToString("F0"));
 Console.WriteLine("How many pizzas: " + pizzasPurchasing.ToString("F0"));
 Console.WriteLine("Price per pizza: " + pricePerPizza.ToString("F2"));
 Console.WriteLine();
+Console.WriteLine("Total slices: " + totalSlices.ToString("F0"));
 Console.WriteLine("Slices per person: " + slicePerPerson.ToString("F1"));
 Console.WriteLine("Pizza cost: " + pizzaCost.ToString("C"));
 Console.WriteLine();
